@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# Shakti Mishra
+---
+## Working as Senior Software Engineer in Zebra Technologies
+
 <!--
 **shaktiMishra123/shaktiMishra123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
